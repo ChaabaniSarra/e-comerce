@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Madera negra",
+      "prix": "20000",
+      "descripcion": "Madera negra super buena negra"
+    },
+    {
+      "id": 2,
+      "name": "Madera cafe",
+      "prix": "25000",
+      "descripcion": "Madera negra super buena cafe"
+    },
+    {
+      "id": 3,
+      "name": "Madera roja",
+      "prix": "10000",
+      "descripcion": "Madera negra super buena roja"
+    },
+    {
+      "id": 4,
+      "name": "Madera verde",
+      "prix": "30000",
+      "descripcion": "Madera negra super buena verde"
+    },
+    {
+      "id": 5,
+      "name": "Madera azul",
+      "prix": "40000",
+      "descripcion": "Madera negra super buena azul"
+    }
+  ]
+   
+   
+  }
