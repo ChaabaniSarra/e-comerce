@@ -6,5 +6,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./accueil.component.css']
 })
 export class AccueilComponent {
+  // images = [
+  //   'https://example.com/image2.jpg',
+  //   '',
+  //   'https://example.com/image3.jpg',
+  // ];
+
 
 }

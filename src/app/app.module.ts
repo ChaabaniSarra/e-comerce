@@ -9,7 +9,12 @@ import { ContactComponent } from './contact/contact.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { FooterComponent } from './footer/footer.component';
 import { AccueilComponent } from './accueil/accueil.component';
+import { AboutComponent } from './about/about.component';
+import { CarouselComponent } from './accueil/carousel/carousel.component';
+import { CardsComponent } from './accueil/cards/cards.component';
 
+
+// import { NgbModule } from '@ng-bootstrap/ng-bootstrap'
 @NgModule({
   declarations: [
     AppComponent,
@@ -19,6 +24,9 @@ import { AccueilComponent } from './accueil/accueil.component';
     NavbarComponent,
     FooterComponent,
     AccueilComponent,
+    AboutComponent,
+    CarouselComponent,
+    CardsComponent,
   
 
   
